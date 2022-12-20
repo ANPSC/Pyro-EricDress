@@ -1,0 +1,1 @@
+upstream_url='https://github.com/Borschts/EricDress/raw/master/content.txt'
